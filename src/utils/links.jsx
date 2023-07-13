@@ -32,19 +32,19 @@ export const links = [
     id: 5,
     text: <span className="iconsname">Seeking_job</span>,
     path: 'seeking_jobs',
-    icon: <img src='./public/images/job.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
+    icon: <img src='public/images/job.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
   },
   {
     id: 6,
     text: <span className="iconsname">Jobs Applications</span>,
     path: 'jobs_Applications',
-    icon: <img src='./public/images/cv.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
+    icon: <img src='public/images/cv.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
   },
   {
     id: 7,
     text: <span className="iconsname">Applied Jobs</span>,
     path: 'appliedApplications',
-    icon: <img src='./public/images/cv.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
+    icon: <img src='public/images/cv.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
   },
 ];
 
