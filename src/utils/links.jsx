@@ -44,7 +44,7 @@ export const links = [
     id: 7,
     text: <span className="iconsname">Applied Jobs</span>,
     path: 'appliedApplications',
-    icon: <img src='https://cdn-icons-png.flaticon.com/128/7139/7139130.pnghttps://cdn-icons-png.flaticon.com/128/7139/7139130.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
+    icon: <img src='https://cdn-icons-png.flaticon.com/128/7139/7139130.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
   },
 ];
 
