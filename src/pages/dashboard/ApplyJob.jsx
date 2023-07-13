@@ -38,15 +38,15 @@ const ApplyJob = () => {
                 <hr />
                 <div className='secondHead'>
                     <div className='content1'>
-                        <div className='icon1'><img src='/src/assets/images/location.png' /></div>
+                        <div className='icon1'><img src='https://cdn-icons-png.flaticon.com/128/2776/2776067.png' /></div>
                         <div className='head1'><h3>{job.jobLocation}</h3></div>
                     </div>
                     <div className='content1'>
-                        <div className='icon1'><img src='/src/assets/images/date.png' /></div>
+                        <div className='icon1'><img src='https://cdn-icons-png.flaticon.com/128/3054/3054457.png' /></div>
                         <div className='head1'><h3>{job.createdAt.slice(0,10)}</h3></div>
                     </div>
                     <div className='content1'>
-                        <div className='icon1'><img src='/src/assets/images/jobs.png' /></div>
+                        <div className='icon1'><img src='https://cdn-icons-png.flaticon.com/128/5776/5776871.png' /></div>
                         <div className='head1'><h3>{job.jobType}</h3></div>
                     </div>
                 </div>
