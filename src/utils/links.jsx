@@ -38,13 +38,13 @@ export const links = [
     id: 6,
     text: <span className="iconsname">Jobs Applications</span>,
     path: 'jobs_Applications',
-    icon: <img src='/src/assets/images/cv.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
+    icon: <img src='src/assets/images/cv.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
   },
   {
     id: 7,
     text: <span className="iconsname">Applied Jobs</span>,
     path: 'appliedApplications',
-    icon: <img src='/src/assets/images/cv.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
+    icon: <img src='src/assets/images/cv.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
   },
 ];
 
