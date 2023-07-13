@@ -32,7 +32,7 @@ export const links = [
     id: 5,
     text: <span className="iconsname">Seeking_job</span>,
     path: 'seeking_jobs',
-    icon: <img src='public/images/job.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
+    icon: <img src='https://cdn-icons-png.flaticon.com/128/3850/3850285.png' style={{width:'20px',marginLeft:'2px',textAlign:'center',marginBottom:'-5px',paddingTop:'2px'}}></img>
   },
   {
     id: 6,
